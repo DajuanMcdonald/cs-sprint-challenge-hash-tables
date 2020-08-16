@@ -1,4 +1,4 @@
-# Hash Tables Sprint Challenge
+# Hash Tables Sprint Challenge : Dajuan Mcdonald
 
 For the hash tables portion of the sprint challenge, you'll be working
 through some algorithm problems that are amenable to being solved
